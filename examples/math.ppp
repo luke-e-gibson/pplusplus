@@ -1,0 +1,44 @@
+//Printing Numbers
+print 123
+print 1.000
+
+print
+print Adding
+print
+
+//Adding numbers
+var a 5
+var b 5
+
+print Numbers
+printvar a
+printvar b
+
+//We add then move the value from return to a 
+add a b
+move a return
+
+//print it
+print Value:
+printvar a
+
+print
+print Minus 
+print
+
+//Adding numbers
+var a 5
+var b 4
+
+print Numbers
+printvar a
+printvar b
+
+
+//We add then move the value from return to a 
+minus a b
+move a return
+
+//print it
+print Value:
+printvar a
